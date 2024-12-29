@@ -81,7 +81,7 @@ endmodule
  Developed by: Safira Barveen S RegisterNumber: 24900731
  
 **Logic symbol & Truthtable**
-![WhatsApp Image 2024-10-29 at 10 24 49 AM (2)](https://github.com/user-attachments/assets/e4c5e284-c9d4-4227-b82f-e9a25230b4b1)
+![WhatsApp Image 2024-12-29 at 4 30 10 PM](https://github.com/user-attachments/assets/7882ccb8-41ff-4d7e-af53-6d6206bfc7b3)
 
 
 **RTL realization Output:** 
