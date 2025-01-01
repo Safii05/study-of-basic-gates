@@ -90,9 +90,7 @@ endmodule
 
 
 **Timing waveform**
-![Screenshot 2024-10-22 102647](https://github.com/user-attachments/assets/84878d3f-831e-4522-8d2a-c9c1c6d76c45)
-
-
+![Screenshot 2025-01-01 143857](https://github.com/user-attachments/assets/1acac3e6-7447-445b-99e5-d97ff6dfc7f1)
 
 **Result:**
 Basic logic gates are studied and truth tables are verified
